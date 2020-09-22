@@ -23,8 +23,14 @@ Project Rhea is a pre configured Vagrant box with all the essentials you need to
 * wp-cli
 * showing errors (E_ALL)
 
-### Laravel ready
-### Wordpress ready
-### Ready for most CMS
+#### Laravel ready
+#### Wordpress ready
+#### Ready for most CMS
+
+##Licence
+Licenced under GNU Public Licence v3. Feel free to use and modify.
+
+
+* Based on ScotchBox 3.5 free version [box.scotch.io](https://box.scotch.io)
 
 
