@@ -27,10 +27,10 @@ Project Rhea is a pre configured Vagrant box with all the essentials you need to
 #### Wordpress ready
 #### Ready for most CMS
 
-##Licence
+## Licence
 Licenced under GNU Public Licence v3. Feel free to use and modify.
 
 
-**Based on ScotchBox 3.5 free version [box.scotch.io](https://box.scotch.io)
+** Based on ScotchBox 3.5 free version [box.scotch.io](https://box.scotch.io)
 
 
