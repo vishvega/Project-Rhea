@@ -13,7 +13,9 @@ Project Rhea is a pre configured Vagrant box with all the essentials you need to
 ## Easy 3 steps
 
 git clone https://github.com/vishvega/Project-Rhea my-vagrant-project
+
 cd my-vagrant-project
+
 vagrant up
 
 
