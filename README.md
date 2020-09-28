@@ -10,6 +10,17 @@ __________                      __                   __    __________ .__
 
 Project Rhea is a pre configured Vagrant box with all the essentials you need to just get up and run your projects.
 
+## Easy 3 steps
+
+git clone https://github.com/vishvega/Project-Rhea my-vagrant-project
+cd my-vagrant-project
+vagrant up
+
+
+(my-vagrant-project is your project folder name. change it to anything you need.)
+
+
+
 ## Version 0.1.1.2
 
 * Ubuntu 16.04
