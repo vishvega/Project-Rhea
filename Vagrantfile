@@ -29,7 +29,7 @@ Vagrant.configure("2") do |config|
 
   config.vm.box = "vishvega/project-rhea"
   config.vm.box_version = "0.1.1"
-  config.vm.network "private_network", ip: "192.168.69.96"
+  config.vm.network "private_network", ip: "192.168.96.69"
   config.vm.synced_folder ".", "/var/www", :mount_options => ["dmode=777", "fmode=666"]
 
 end
